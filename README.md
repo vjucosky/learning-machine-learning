@@ -7,8 +7,8 @@ Este repositório contém snippets e rascunhos de código que foram reunidos dur
 Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA)
 
 * Chapter 0 – PyTorch Fundamentals:
-  0. 28/07/2025: Welcome and "what is deep learning?"
-  1. 28/07/2025: Why use machine/deep learning?
+  1. 28/07/2025: Welcome and "what is deep learning?"
+  2. 28/07/2025: Why use machine/deep learning?
   2. 28/07/2025: The number one rule of ML
   3. 28/07/2025: Machine learning vs deep learning
   4. 28/07/2025: Anatomy of neural networks
