@@ -8,24 +8,24 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 
 **Chapter 0 – PyTorch Fundamentals**
 
-1. 28/07/2025: Why use machine/deep learning?
-2. 28/07/2025: The number one rule of ML
-3. 28/07/2025: Machine learning vs deep learning
-4. 28/07/2025: Anatomy of neural networks
-5. 28/07/2025: Different learning paradigms
-6. 28/07/2025: What can deep learning be used for?
-7. 28/07/2025: What is/why PyTorch?
-8. 28/07/2025: What are tensors?
-9. 28/07/2025: Outline
-10. 28/07/2025: How to (and how not to) approach this course
-11. 28/07/2025: Important resources
-12. 29/07/2025: Getting setup
-13. 29/07/2025: Introduction to tensors
-14. 29/07/2025: Creating random tensors in PyTorch
-15. 29/07/2025: Creating tensors with zeros and ones in PyTorch
-16. 29/07/2025: Creating tensors in a range
-17. 29/07/2025: Tensor datatypes
-18. 29/07/2025: Getting tensor attributes (information about tensors)
+1. `28/07/2025` Why use machine/deep learning?
+2. `28/07/2025` The number one rule of ML
+3. `28/07/2025` Machine learning vs deep learning
+4. `28/07/2025` Anatomy of neural networks
+5. `28/07/2025` Different learning paradigms
+6. `28/07/2025` What can deep learning be used for?
+7. `28/07/2025` What is/why PyTorch?
+8. `28/07/2025` What are tensors?
+9. `28/07/2025` Outline
+10. `28/07/2025` How to (and how not to) approach this course
+11. `28/07/2025` Important resources
+12. `29/07/2025` Getting setup
+13. `29/07/2025` Introduction to tensors
+14. `29/07/2025` Creating random tensors in PyTorch
+15. `29/07/2025` Creating tensors with zeros and ones in PyTorch
+16. `29/07/2025` Creating tensors in a range
+17. `29/07/2025` Tensor datatypes
+18. `29/07/2025` Getting tensor attributes (information about tensors)
 19. Manipulating tensors (tensor operations)
 20. Matrix multiplication
 21. 
