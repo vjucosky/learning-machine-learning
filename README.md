@@ -26,10 +26,10 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 16. `29/07/2025` Creating tensors in a range
 17. `29/07/2025` Tensor datatypes
 18. `29/07/2025` Getting tensor attributes (information about tensors)
-19. Manipulating tensors (tensor operations)
-20. Matrix multiplication
-21. 
-22. 
+19. `30/07/2025` Manipulating tensors (tensor operations)
+20. `30/07/2025` Matrix multiplication (part 1)
+21. `30/07/2025` Matrix multiplication (part 2: the two main rules of matrix multiplication)
+22. `30/07/2025` Matrix multiplication (part 3: dealing with tensor shape errors)
 23. Finding the min, max, mean & sum
 24. 
 25. Reshaping, viewing and stacking
