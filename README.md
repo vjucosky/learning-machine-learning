@@ -35,14 +35,14 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 25. `02/08/2025` Reshaping, viewing and stacking tensors
 26. `02/08/2025` Squeezing, unsqueezing and permuting tensors
 27. `02/08/2025` Selecting data from tensors (indexing)
-28. PyTorch and NumPy
-29. Reproducibility
-30. Accessing a GPU
-31. Setting up device agnostic code
+28. `02/08/2025` PyTorch and NumPy
+29. `02/08/2025` PyTorch reproducibility (taking the random out of random)
+30. `02/08/2025` Different ways of accessing a GPU in PyTorch
+31. `02/08/2025` Setting up device agnostic code and putting tensors on and off the GPU
+32. PyTorch Fundamentals exercises & extra-curriculum
 
 **Chapter 1 – PyTorch Workflow**
 
-32. 
 33. Introduction to PyTorch Workflow
 34. Getting setup
 35. Creating a dataset with linear regression
