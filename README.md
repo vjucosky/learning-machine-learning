@@ -30,11 +30,11 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 20. `30/07/2025` Matrix multiplication (part 1)
 21. `30/07/2025` Matrix multiplication (part 2: the two main rules of matrix multiplication)
 22. `30/07/2025` Matrix multiplication (part 3: dealing with tensor shape errors)
-23. Finding the min, max, mean & sum
-24. 
-25. Reshaping, viewing and stacking
-26. Squeezing, unsqueezing and permuting
-27. Selecting data (indexing)
+23. `02/08/2025` Finding the min, max, mean and sum of tensors (tensor aggregation)
+24. `02/08/2025` Finding the positional min and max of tensors
+25. `02/08/2025` Reshaping, viewing and stacking tensors
+26. `02/08/2025` Squeezing, unsqueezing and permuting tensors
+27. `02/08/2025` Selecting data from tensors (indexing)
 28. PyTorch and NumPy
 29. Reproducibility
 30. Accessing a GPU
