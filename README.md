@@ -43,15 +43,15 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 
 **Chapter 1 – PyTorch Workflow**
 
-33. Introduction to PyTorch Workflow
-34. Getting setup
-35. Creating a dataset with linear regression
-36. Creating training and test sets (the most important concept in ML)
-37. 
-38. Creating our first PyTorch model
-39. 
-40. Discussing important model building classes
-41. Checking out the internals of our model
+33. `03/08/2025` Introduction to PyTorch Workflow
+34. `03/08/2025` Getting setup for the PyTorch Workflow module
+35. `03/08/2025` Creating a simple dataset using linear regression
+36. `03/08/2025` Splitting our data into training and test sets (possibly the most important concept in machine learning)
+37. `03/08/2025` Building a function to visualize our data
+38. `03/08/2025` Creating our first PyTorch model for linear regression
+39. `03/08/2025` Breaking down what's happening in our PyTorch linear regression model
+40. `03/08/2025` Discussing some of the most important PyTorch model building classes
+41. Checking out the internals of our PyTorch model
 42. Making predictions with our model
 43. Training a model with PyTorch (intuition building)
 44. Setting up a loss function and optimizer
