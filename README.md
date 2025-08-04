@@ -51,11 +51,11 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 38. `03/08/2025` Creating our first PyTorch model for linear regression
 39. `03/08/2025` Breaking down what's happening in our PyTorch linear regression model
 40. `03/08/2025` Discussing some of the most important PyTorch model building classes
-41. Checking out the internals of our PyTorch model
-42. Making predictions with our model
-43. Training a model with PyTorch (intuition building)
-44. Setting up a loss function and optimizer
-45. PyTorch training loop intuition
+41. `04/08/2025` Checking out the internals of our PyTorch model
+42. `04/08/2025` Making predictions with our random model using torch.inference_mode()
+43. `04/08/2025` Training a model with PyTorch (intuition building)
+44. `04/08/2025` Setting up a loss function and optimizer with PyTorch
+45. PyTorch training loop steps and intuition
 46. 
 47. 
 48. Running our training loop epoch by epoch
