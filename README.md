@@ -59,9 +59,9 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 46. `05/08/2025` Writing code for a PyTorch training loop
 47. `05/08/2025` Reviewing the steps in a PyTorch trainig loop
 48. `05/08/2025` Running our training loop epoch by epoch and seeing what happens
-49. Writing testing loop code and discussing what's happening
-50. 
-51. Saving/loading a model
+49. `05/08/2025` Writing testing loop code and discussing what's happening
+50. `05/08/2025` Reviewing what happens in a testing loop step by step
+51. Writing code to save a PyTorch model
 52. 
 53. 
 54. Putting everything together
