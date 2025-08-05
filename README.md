@@ -55,11 +55,11 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 42. `04/08/2025` Making predictions with our random model using torch.inference_mode()
 43. `04/08/2025` Training a model with PyTorch (intuition building)
 44. `04/08/2025` Setting up a loss function and optimizer with PyTorch
-45. PyTorch training loop steps and intuition
-46. 
-47. 
-48. Running our training loop epoch by epoch
-49. Writing testing loop code
+45. `05/08/2025` PyTorch training loop steps and intuition
+46. `05/08/2025` Writing code for a PyTorch training loop
+47. `05/08/2025` Reviewing the steps in a PyTorch trainig loop
+48. `05/08/2025` Running our training loop epoch by epoch and seeing what happens
+49. Writing testing loop code and discussing what's happening
 50. 
 51. Saving/loading a model
 52. 
