@@ -61,10 +61,15 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 48. `05/08/2025` Running our training loop epoch by epoch and seeing what happens
 49. `05/08/2025` Writing testing loop code and discussing what's happening
 50. `05/08/2025` Reviewing what happens in a testing loop step by step
-51. Writing code to save a PyTorch model
-52. 
-53. 
+51. `06/08/2025` Writing code to save a PyTorch model
+52. `06/08/2025` Writing code to load a PyTorch model
+53. Getting ready to practice everything we've done so far with device agnostic code
 54. Putting everything together
+55. 
+56. 
+57. 
+58. 
+59. 
 
 **Chapter 2 – Neural Network Classification**
 
@@ -97,6 +102,81 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 86. 
 87. 
 88. Troubleshooting a mutli-class model
+89. 
+90. 
+91. 
+
+**Chapter 3 – Computer Vision**
+
+92. Introduction to computer vision
+93. Computer vision input and outputs
+94. What is a convolutional neural network?
+95. TorchVision
+96. Getting a computer vision dataset
+97. 
+98. Mini-batches
+99. Creating DataLoaders
+100. 
+101. 
+102. 
+103. Training and testing loops for batched data
+104. 
+105. Running experiments on the GPU
+106. Creating a model with non-linear functions
+107. 
+108. Creating a train/test loop
+109. 
+110. 
+111. 
+112. Convolutional neural networks (overview)
+113. Coding a CNN
+114. Breaking down nn.Conv2d/nn.MaxPool2d
+115. 
+116. 
+117. 
+118. Training our first CNN
+119. 
+120. Making predictions on random test samples
+121. Plotting our best model predictions
+122. 
+123. Evaluating model predictions with a confusion matrix
+124. 
+125. 
+
+**Chapter 4 – Custom Datasets**
+
+126. Introduction to custom datasets
+127. 
+128. Downloading a custom dataset of pizza, steak and sushi images
+129. Becoming one with the data
+130. 
+131. 
+132. Turning images into tensors
+133. 
+134. 
+135. 
+136. Creating image DataLoaders
+137. Creating a custom dataset class (overview)
+138. 
+139. Writing a custom dataset class from scratch
+140. 
+141. 
+142. Turning custom datasets into DataLoaders
+143. Data augmentation
+144. Building a baseline model
+145. 
+146. 
+147. Getting a summary of our model with torchinfo
+148. Creating training and testing loop functions
+149. 
+150. 
+151. Plotting model 0 loss curves
+152. Overfitting and underfitting
+153. 
+154. 
+155. Plotting model 1 loss curves
+156. Plotting all the loss curves
+157. Predicting on custom data
 
 Links úteis:
 
