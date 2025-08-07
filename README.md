@@ -63,13 +63,13 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 50. `05/08/2025` Reviewing what happens in a testing loop step by step
 51. `06/08/2025` Writing code to save a PyTorch model
 52. `06/08/2025` Writing code to load a PyTorch model
-53. Getting ready to practice everything we've done so far with device agnostic code
-54. Putting everything together
-55. 
-56. 
-57. 
-58. 
-59. 
+53. `07/08/2025` Getting ready to practice everything we've done so far with device agnostic-code
+54. `07/08/2025` Putting everything together part 1: preparing data
+55. `07/08/2025` Putting everything together part 2: building a model
+56. `07/08/2025` Putting everything together part 3: training a model
+57. `07/08/2025` Putting everything together part 4: making predictions with a trained model
+58. `07/08/2025` Putting everything together part 5: saving and loading a trained model
+59. PyTorch Workflow exercises & extra-curriculum
 
 **Chapter 2 – Neural Network Classification**
 
