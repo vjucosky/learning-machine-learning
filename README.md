@@ -73,10 +73,10 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 
 **Chapter 2 – Neural Network Classification**
 
-60. Introduction to machine learning classification
-61. Classification input and outputs
-62. Architecture of a classification neural network
-63. 
+60. `08/08/2025` Introduction to machine learning classification with PyTorch
+61. `08/08/2025` Classification problem input and output shapes
+62. `08/08/2025` Typically architecture of a classification neural network (overview)
+63. Making a toy classification dataset
 64. Turing our data into tensors
 65. 
 66. Coding a neural network for classification data
