@@ -71,18 +71,18 @@ Tutorial: [PyTorch for Deep Learning & Machine Learning – Full Course](https:/
 58. `07/08/2025` Putting everything together part 5: saving and loading a trained model
 59. PyTorch Workflow exercises & extra-curriculum
 
-**Chapter 2 – Neural Network Classification**
+**Chapter 2 – PyTorch Neural Network Classification**
 
-60. Introduction to machine learning classification
-61. Classification input and outputs
-62. Architecture of a classification neural network
-63. 
-64. Turing our data into tensors
-65. 
-66. Coding a neural network for classification data
-67. 
-68. Using torch.nn.Sequential
-69. Loss, optimizer and evaluation functions for classification
+60. `08/08/2025` Introduction to machine learning classification with PyTorch
+61. `08/08/2025` Classification problem input and output shapes
+62. `08/08/2025` Typically architecture of a classification neural network (overview)
+63. `09/08/2025` Making a toy classification dataset
+64. `09/08/2025` Turing our data into tensors and making a training and test split
+65. `09/08/2025` Laying out steps for modelling and setting up device agnostic code
+66. `09/08/2025` Coding a small neural network to handle our classification data
+67. `09/08/2025` Making our neural network visual
+68. `09/08/2025` Recreating our model using `torch.nn.Sequential`
+69. Setting up a loss function, optimizer and evaluation function for our classification neural network
 70. From model logits to prediction probabilities to prediction labels
 71. Train and test loops
 72. 
@@ -182,3 +182,4 @@ Links úteis:
 
 * [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)
 * [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+* [TensorFlow Playground](https://playground.tensorflow.org/)
